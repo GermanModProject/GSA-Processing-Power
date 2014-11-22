@@ -1,4 +1,4 @@
-GermanSpaceAlliance
+GermanSpaceAlliance - ProcessingPower
 ===============
 
 Copyrights:
