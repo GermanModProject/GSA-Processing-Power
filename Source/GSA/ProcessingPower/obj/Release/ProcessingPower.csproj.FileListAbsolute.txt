@@ -1,0 +1,16 @@
+F:\Documents\GSA\Source\GSA\ProcessingPower\bin\Release\ProcessingPower.dll
+F:\Documents\GSA\Source\GSA\ProcessingPower\bin\Release\ProcessingPower.pdb
+F:\Documents\GSA\Source\GSA\ProcessingPower\bin\Release\Assembly-CSharp.dll
+F:\Documents\GSA\Source\GSA\ProcessingPower\bin\Release\UnityEngine.dll
+F:\Documents\GSA\Source\GSA\ProcessingPower\bin\Release\TDx.TDxInput.dll
+F:\Documents\GSA\Source\GSA\ProcessingPower\bin\Release\Mono.Cecil.dll
+F:\Documents\GSA\Source\GSA\ProcessingPower\bin\Release\Assembly-CSharp-firstpass.dll
+F:\Documents\GSA\Source\GSA\ProcessingPower\bin\Release\Mono.Security.dll
+F:\Documents\GSA\Source\GSA\ProcessingPower\obj\Release\ProcessingPower.csprojResolveAssemblyReference.cache
+F:\Documents\GSA\Source\GSA\ProcessingPower\obj\Release\ProcessingPower.dll
+F:\Documents\GSA\Source\GSA\ProcessingPower\obj\Release\ProcessingPower.pdb
+F:\Documents\GSA-Processing-Power\Source\GSA\ProcessingPower\bin\Release\ProcessingPower.dll
+F:\Documents\GSA-Processing-Power\Source\GSA\ProcessingPower\bin\Release\ProcessingPower.pdb
+F:\Documents\GSA-Processing-Power\Source\GSA\ProcessingPower\obj\Release\ProcessingPower.csprojResolveAssemblyReference.cache
+F:\Documents\GSA-Processing-Power\Source\GSA\ProcessingPower\obj\Release\ProcessingPower.dll
+F:\Documents\GSA-Processing-Power\Source\GSA\ProcessingPower\obj\Release\ProcessingPower.pdb
