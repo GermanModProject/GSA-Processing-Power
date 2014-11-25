@@ -49,6 +49,7 @@
   <ItemGroup>
     <Compile Include="CPU.cs" />
     <Compile Include="Parser.cs" />
+    <Compile Include="PPConsumptor.cs" />
     <Compile Include="Tier1CPU.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
