@@ -4,3 +4,8 @@ F:\Documents\GSA\Source\GSA\ProcessingPower\bin\Debug\ProcessingPower.pdb
 F:\Documents\GSA\Source\GSA\ProcessingPower\obj\Debug\ProcessingPower.dll
 F:\Documents\GSA\Source\GSA\ProcessingPower\obj\Debug\ProcessingPower.pdb
 F:\Documents\GSA\Source\GSA\ProcessingPower\obj\Debug\ProcessingPower.csprojResolveAssemblyReference.cache
+F:\Documents\GSA-Processing-Power\Source\GSA\ProcessingPower\obj\Debug\ProcessingPower.csprojResolveAssemblyReference.cache
+F:\Documents\GSA-Processing-Power\Source\GSA\ProcessingPower\obj\Debug\ProcessingPower.dll
+F:\Documents\GSA-Processing-Power\Source\GSA\ProcessingPower\obj\Debug\ProcessingPower.pdb
+F:\Documents\GSA-Processing-Power\Source\GSA\ProcessingPower\bin\Debug\ProcessingPower.dll
+F:\Documents\GSA-Processing-Power\Source\GSA\ProcessingPower\bin\Debug\ProcessingPower.pdb

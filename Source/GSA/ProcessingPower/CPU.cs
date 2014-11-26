@@ -31,17 +31,14 @@ namespace ProcessingPower
     {
         #region KSPFields
 
-        [KSPField(isPersistant = false, guiActive = true)]
-        public string Enabled;
-
-        [KSPField(isPersistant=true)]
+        [KSPField(guiActive=true, guiName="isOperating")]
         public bool isOperating;
 
-        [KSPField]
+        [KSPField(guiActive=true)]
         public int Tier;
 
         [KSPField(guiActive = true, guiActiveEditor = true)]
-        public int Output=3;
+        public int Output;
 
         [KSPField(guiActive = true)]
         public double Consumption;
@@ -60,7 +57,6 @@ namespace ProcessingPower
         {
             base.OnStart(state);
             Debug.Log("Tier1CPU Started now");
-            isOperating = true;
         }
 
         public override void OnLoad(ConfigNode node)
@@ -78,23 +74,16 @@ namespace ProcessingPower
                 }
             }
             catch { }
+
+            isOperating = true;
            
         }
 
-        public override void OnFixedUpdate()
+        public override void OnUpdate()
         {
             base.OnFixedUpdate();
 
             ResourceConverter();
-
-            if (isOperating)
-            {
-                Enabled = "Enabled";
-            }
-            else
-            {
-                Enabled = "Disabled";
-            }
 
             Consumption = Output / 10 ^ Tier;
         }
@@ -105,8 +94,8 @@ namespace ProcessingPower
         {
             if (isOperating)
             {
-                part.RequestResource("ElectricCharge", Output/10^Tier);
-                part.RequestResource("ProcessingPower", -Output);
+                part.RequestResource("ElectricCharge", 0.5);
+                part.RequestResource("ProcesingPower", -5);
             }
 
         }
